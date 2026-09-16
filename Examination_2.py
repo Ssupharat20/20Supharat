@@ -8,3 +8,5 @@
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 a = int(input())
 b = int(input())
+print A > B (" A is greater")
+print A <= B(" B is greater or equal")
