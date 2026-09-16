@@ -11,3 +11,4 @@ if password >= 8:
     print("pass")
 elif passeord <= 8:
     print("too short")
+
