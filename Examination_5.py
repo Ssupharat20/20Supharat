@@ -15,5 +15,5 @@ elif unit2 <=100 :
 eise :
    print("หน่วยละ5บาท")
 
-print(unit1 + unit2 +else = ค่าไฟรวม)
+print(unit1 + unit2 + else = ค่าไฟรวม)
 
