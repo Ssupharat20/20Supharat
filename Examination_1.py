@@ -6,7 +6,7 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-total_minutes = int(input())
+total_minutes = int(input(จำนวนทั้งหมด))
 minutes1 = int(input(จำนวนชั่วโมง))
 minutes2 = int(input(จำนวนนาทีทีเหลือ))
 print(minutes1 /60: minutes2)
