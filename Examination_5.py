@@ -7,4 +7,13 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-unit = int(input())
+unit = int(input("จำนวนหน่วยไฟที่ใช้"))
+if unit1 <=50 :
+   print("หน่วยละ3บาท")
+elif unit2 <=100 :
+   print("หน่วยละ4บาท")
+eise :
+   print("หน่วยละ5บาท")
+
+print(unit1 + unit2 +else = ค่าไฟรวม)
+
