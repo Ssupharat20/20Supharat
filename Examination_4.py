@@ -6,7 +6,7 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-color = input("สีของไฟจราจร")
+olor = input("สีของไฟจราจร")
 if color ("red")
    print("Stop")
 elif color("yellow")
